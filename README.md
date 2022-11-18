@@ -3,7 +3,7 @@
 
 <br>
 
-&#9729;  [Applauz](https://arrahman73.github.io/applauz-netlify) visite
+&#9729;  [Applauz](https://arrahman73.github.io/applauz-deploy/) visite
 
 ## Programing languages and freamworks
 1. HTML
@@ -33,7 +33,7 @@
 
 ## Work History : 🔗
 
-### &#9729; [applauz.netlify.app](https://rahman-applauz.netlify.app) visite
+### &#9729; [https://arrahman73.github.io/applauz-deploy/](https://arrahman73.github.io/applauz-deploy/) visite
 
 
 <br>
